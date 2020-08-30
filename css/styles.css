@@ -1,0 +1,16 @@
+.header{
+    background-image: url("../images/h_img.jpg");
+    text-align: center;
+    color: white;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 10rem;
+    margin-bottom: 40px;
+}
+#mouse{
+    margin-top: 1cm;
+    margin-bottom: 0cm;
+}
+.aboutus{
+    text-align: center;
+}
