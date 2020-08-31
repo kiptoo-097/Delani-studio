@@ -26,7 +26,7 @@
 .row{
     text-align: center;
 }
-/* .contact{
+.contact{
     background-image: url("../images/c_images.jpg");
     color: white;
     background-size: cover;
@@ -43,7 +43,7 @@ background: transparent;
   }
   .social{
       text-align: center;
-  } */
+  }
   #design2 {
       display: none;
   }
