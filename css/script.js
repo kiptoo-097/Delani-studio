@@ -25,6 +25,19 @@ $('document').ready(function () {
         $('#product1').show();
     })
 
+    $('#design2').click(function () {
+        $('#design2').hide();
+        $('#design1').show();
+    })
+    $('#dev2').click(function () {
+        $('#dev2').hide();
+        $('#dev1').show();
+    })
+    $('#product2').click(function () {
+        $('#product2').hide();
+        $('#product1').show();
+    })
+
     //porfolio//
     $('.work4').hover(function () {
         $('#black').toggle();
