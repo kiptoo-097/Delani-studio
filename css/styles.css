@@ -63,4 +63,12 @@ background: transparent;
   #product2{
       display:none;
   }
- 
+.message-form{
+     background: transparent;
+ }
+.form-group{
+     background: transparent;
+ }
+#input1,#input2,#comment{
+    background-color: transparent;
+}

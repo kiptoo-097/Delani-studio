@@ -121,26 +121,24 @@
     <div class="container-fluid pt-5">
         <div class="contact pt-5">
             <h2 class="text-center">CONTACT US</h2>
-            <form>
-                <div class="container" height=1000px>
-                    <div class="form-row pt-5">
-                        <div class="form-group col-md-6">
-                            <input type="text" class="form-control" placeholder="Name...">
-                        </div>
-                        <div class="form-group col-md-6">
-                            <input type="email" class="form-control" id="inputEmail4" placeholder="Email...">
-                        </div>
-                    </div>
-                    <div class="form-row">
-                        <div class="form-group col-md-12">
-                            <textarea type="text" placeholder="Your message here.." class="form-control"
-                                style="color:white" id="textarea" rows="10"></textarea>
-                        </div>
-                    </div>
-                    <button type="button" class="btn btn-success">Submit</button>
+            <form class="p-3 mt-3 col-md-6 mx-auto" id="message-form"
+                action="https://gmail.us17.list-manage.com/subscribe/post?u=1bb29653be2fa42fe5ed52b19&amp;id=574f622d32"
+                method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate"
+                target="_blank" novalidate>
+                <div class="form-group form-inline">
+                    <input type="text" class="form-control" placeholder="Name..." name="input1" id="input1" size="25"
+                        required>
+                    <input type="email" class="form-control" placeholder="Email..." name="input2" id="input2" size="25"
+                        value="" required>
                 </div>
-            </form>
+                <div class="form-group" id="textarea">
+                    <textarea class="form-control" rows="7" id="comment" placeholder="Write message..."></textarea>
+                </div>
+                <div class="clear"><input type="submit" value="Submit" name="subscribe" id="mc-embedded-subscribe"
+                        class="button"></div>
         </div>
+        </form>
+    </div>
 
     </div>
     <div class="container-fluid">
