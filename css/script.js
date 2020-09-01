@@ -41,6 +41,7 @@ $('document').ready(function () {
 
     $('.work4').hover(function () {
         $('#black').toggle();
+        $('#work4').fadeout();
     })
     $('.work3').hover(function () {
         $('#ontario').toggle();
@@ -50,6 +51,18 @@ $('document').ready(function () {
     })
     $('.work1').hover(function () {
         $('#jim').toggle();
+    })
+    $('#work5').hover(function () {
+        $('#niceday').toggle();
+    })
+    $('#work6').hover(function () {
+        $('#calc').toggle();
+    })
+    $('#work7').hover(function () {
+        $('#burned').toggle();
+    })
+    $('#work8').hover(function () {
+        $('#giraffe').toggle();
     })
 
     $("form#message-form").submit(function () {
