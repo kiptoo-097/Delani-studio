@@ -38,7 +38,7 @@ $('document').ready(function () {
         $('#product1').show();
     })
 
-    //porfolio//
+
     $('.work4').hover(function () {
         $('#black').toggle();
     })
