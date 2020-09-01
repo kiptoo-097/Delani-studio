@@ -1,3 +1,4 @@
+<img src="images/_Delani Studio.jpg" >
 # ![Delani Studio]( https://kiptoo-097.github.io/Delani-studio/)
 # Delani Studio Website
 Delani studio is a website that shows details about the services it offers, has information about the studio, a portfolio section and a form that enables users to send their messages and concern to Delani studios.
